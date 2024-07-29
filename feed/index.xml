@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>     home</title>
-	<atom:link href="https://https://rangarajan604s.github.io/test/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://rangarajan604s.github.io/test/</link>
+	<title>Home</title>
+	<atom:link href="https://rangarajan604s.github.io/test/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rangarajan604s.github.io/test/</link>
 	<description></description>
-	<lastBuildDate>Wed, 24 Jul 2024 16:38:47 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Jul 2024 16:26:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://https://rangarajan604s.github.io/test/wp-content/uploads/2024/07/IMG_20200721_081558-edited-150x150.jpg</url>
-	<title>     home</title>
-	<link>https://https://rangarajan604s.github.io/test/</link>
+	<url>https://rangarajan604s.github.io/test/wp-content/uploads/2024/07/IMG_20200721_081558-edited-150x150.jpg</url>
+	<title>Home</title>
+	<link>https://rangarajan604s.github.io/test/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
