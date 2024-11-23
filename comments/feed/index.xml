@@ -9,23 +9,13 @@
 	<title>
 	Comments for Home	</title>
 	<atom:link href="https://rangarajan604.github.io/Webside/comments/feed/" rel="self" type="application/rss+xml" />
-<<<<<<< HEAD
-	<link>https://rangarajan604.github.io/Webside/</link>
-	<description></description>
-	<lastBuildDate>Sun, 03 Nov 2024 11:15:17 +0000</lastBuildDate>
-=======
 	<link>https://rangarajan604.github.io/Webside</link>
 	<description></description>
 	<lastBuildDate>Tue, 19 Nov 2024 10:34:14 +0000</lastBuildDate>
->>>>>>> f84be29 (Initial commit)
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-<<<<<<< HEAD
-	<generator>https://wordpress.org/?v=6.6.2</generator>
-=======
 	<generator>https://wordpress.org/?v=6.7</generator>
->>>>>>> f84be29 (Initial commit)
 </channel>
 </rss>
