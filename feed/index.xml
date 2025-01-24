@@ -10,20 +10,20 @@
 <channel>
 	<title>Home</title>
 	<atom:link href="https://rangarajan604.github.io/Webside/feed/" rel="self" type="application/rss+xml" />
-	<link>https://rangarajan604.github.io/Webside</link>
+	<link>https://rangarajan604.github.io/Webside/</link>
 	<description></description>
-	<lastBuildDate>Tue, 19 Nov 2024 10:34:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 03 Nov 2024 11:15:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.7</generator>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
 
 <image>
 	<url>https://rangarajan604.github.io/Webside/wp-content/uploads/2024/07/IMG_20200721_081558-edited-150x150.jpg</url>
 	<title>Home</title>
-	<link>https://rangarajan604.github.io/Webside</link>
+	<link>https://rangarajan604.github.io/Webside/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
